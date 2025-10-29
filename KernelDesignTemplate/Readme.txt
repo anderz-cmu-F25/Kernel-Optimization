@@ -1,0 +1,1 @@
+To run the code, first do "make" in the terminal, then do "./kernel_driver.x"
